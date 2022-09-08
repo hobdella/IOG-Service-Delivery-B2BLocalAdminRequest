@@ -1,1 +1,1 @@
-# IOG-Service-Delivery-LocalAdminRequest
+# IOG-Service-Delivery-B2BLocalAdminRequest
