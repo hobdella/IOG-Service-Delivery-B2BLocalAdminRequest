@@ -12,7 +12,7 @@ The user requests local admin from the ITSM platform self-service form, the requ
 **The Service Delivery Approval**
 The request is received into the a defined group of approvers and a review of the request is made. There are a generally understood basis for the approving or rejecting of requests and the approval can take the form or permanent or temporary rights being granted, or rejection. The approver makes their decision and updates the ticket accordingly. A rejected request will usually direct the user to contact IT support as a one-off need is handled by elevated rights on a remote support session. Approved rights will see the request excalated to the InfoSec Access Management team for applying the rights.
 
-**Provisioning Local Admin Rights**
+**The Provisioning of Local Admin Rights**
 The user is added to the local admin users group in Active Directory for the taret device. 
 The user is added to the RBI-GPO IT Users /BIN-GPO IT Users group depending on user's base location. (US=BIN, ROW=B2B)
 The user is removed from the RBI-GPO Standard Users/BIN-GPO Standard Users
